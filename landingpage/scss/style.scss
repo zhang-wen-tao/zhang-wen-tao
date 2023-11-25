@@ -1,0 +1,32 @@
+/*
+Template Name: Admin Template
+Author: Niravjoshi / Wrappixel
+File: scss
+*/
+
+@import 'variables/variable';  
+
+// Import Bootstrap source files
+@import "../../landingpage/scss/bootstrap/scss/bootstrap.scss";  
+
+// 
+// Scrollbar style (Required file)
+// 
+@import "../libs/simplebar/dist/simplebar.min.css";
+
+//This is for the icons
+@import 'icons/tabler-icons/tabler-icons.min.css';      
+
+// 
+// Theme Layouts style (Required file)
+// 
+@import 'layouts/header';
+
+
+// 
+// Pages style (Required file)
+// 
+@import 'pages/landingpage'; 
+@import'pages/docs';
+
+@import 'custom';
