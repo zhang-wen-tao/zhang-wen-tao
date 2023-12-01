@@ -1,4 +1,4 @@
 User-agent: *
 Allow: /
 
-Sitemap: https://iptv-org.github.io/sitemap.xml
+Sitemap: https://zhang-wen-tao.com/sitemap.xml

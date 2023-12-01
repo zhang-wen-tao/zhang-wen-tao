@@ -76,8 +76,8 @@
 
 <svelte:window bind:scrollY={scrollTop} />
 <svelte:head>
-  <title>iptv-org</title>
-  <meta name="description" content="iptv-org is user editable database for TV channels" />
+  <title>光源万创-广电5G物联卡终端适配列表</title>
+  <meta name="description" content="光源万创-广电5G物联卡终端适配列表" />
 </svelte:head>
 
 <header

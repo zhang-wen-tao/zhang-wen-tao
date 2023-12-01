@@ -1,12 +1,12 @@
 {
-  "name": "iptv-org.github.io",
+  "name": "zhang-wen-tao.com",
   "type": "module",
   "private": true,
   "scripts": {
     "dev": "vite dev",
     "build": "vite build",
     "preview": "vite preview",
-    "postbuild": "npx svelte-sitemap -d https://iptv-org.github.io -o docs",
+    "postbuild": "npx svelte-sitemap -d https://zhang-wen-tao.com -o docs",
     "postinstall": "./src/load.sh"
   },
   "devDependencies": {

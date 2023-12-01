@@ -32,7 +32,7 @@
       >
         <span
           class="text-[1.15rem] text-[#24292f] self-center font-semibold whitespace-nowrap dark:text-white font-mono"
-          >/iptv-org</span
+          >光源万创-广电5G物联卡终端适配列表</span
         >
       </a>
       <div class="hidden sm:block w-full">
