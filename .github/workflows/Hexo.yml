@@ -16,5 +16,5 @@ jobs:
         env:
           PERSONAL_TOKEN: ${{ secrets.HEXO_GITHUB_TOKEN }} # secret 名
           PUBLISH_REPOSITORY: zhang-wen-tao/zhang-wen-tao.com
-          BRANCH: Hexo-Github-Pages
+          BRANCH: Hexo_Github_Pages
           PUBLISH_DIR: ./public
