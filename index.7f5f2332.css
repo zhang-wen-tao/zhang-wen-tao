@@ -77,8 +77,8 @@ body {
 
 .pos {
   background: white;
-  color: #0071e3;
-  border-left-color: #0071e3
+  color: #1d1d1f;
+  border-left-color: #1d1d1f
 }
 
 .modelsItem {
@@ -104,19 +104,8 @@ body {
 
 .tip {
   font-size: 12px;
-  color: #0071e3;
+  color: #1d1d1f;
   margin-top: 8px
-}
-
-.footergrep {
-  background: #f5f5f7;
-  height: 18px
-}
-
-.footer {
-  height: 30px;
-  background: #f5f5f7 url(./logo.4335c17c.png) no-repeat center center;
-  background-size: contain
 }
 
 .shadow {
