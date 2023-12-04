@@ -859,7 +859,7 @@ const Data = [
     name: "宏米",
     tips: "",
     models: [
-      { name: "M2", tips: "出厂即支持", color: "#D80000" },
+      { name: "M2", tips: "出厂即支持", color: "#000000" },
     ]
   },
   {
