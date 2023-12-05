@@ -198,8 +198,8 @@ const Data = [
   },
   {
     id: "vivo",
-    name: "vivo",
-    tips: "商用版本全国分批推送，请在：设置-系统升级-右上角升级尝鲜查看，如未收到新版本，请耐心等待厂家推送",
+    name: "VIVO",
+    tips: "",
     tipsImg: "vivo.png",
     models: [
       { name: "S16", tips: "支持使用", color: "#000000" },
