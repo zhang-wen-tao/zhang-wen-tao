@@ -33,14 +33,14 @@ body {
 }
 
 .brands {
-  flex: 1;
+
   overflow: auto;
   color: #999999;
   background: #f7f7f7
 }
 
 .models {
-  flex: 5.7;
+  flex: 2;
   overflow: auto;
   padding-right: 20px;
   padding-top: 10px;
