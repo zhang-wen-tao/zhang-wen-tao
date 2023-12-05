@@ -34,7 +34,6 @@ body {
 .brands {
   flex: 1;
   overflow: auto;
- 
   color: #999999;
   background: #f7f7f7
 }
@@ -49,8 +48,9 @@ body {
 
 .brandItem {
   font-size: 17px;
-  padding: 16px 10px;
+  padding: 10px 5px;
   font-weight: 600;
+ 
   border-left: 3px solid transparent
 }
 
