@@ -1,0 +1,26 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+  <meta charset="UTF-8">
+  <title>中国广电终端适配查询</title>
+  <style>
+    body {
+      margin: 0;
+      padding: 0;
+    }
+  </style>
+
+</head>
+
+<body>
+  <img id="img" src="" style="width: 100vw" />
+  <script>
+    const img = location.search.replace("?img=", "")
+    window.onload = () => {
+      document.getElementById("img").src = "img/" + img
+    }
+  </script>
+</body>
+
+</html>
