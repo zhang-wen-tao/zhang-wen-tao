@@ -34,7 +34,7 @@ body {
 .brands {
   flex: 1;
   overflow: auto;
-  margin-left: 20px;
+ 
   color: #999999;
   background: #f7f7f7
 }
